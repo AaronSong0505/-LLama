@@ -16,4 +16,4 @@ pip install dist/skyer_llm-0.1.3-py3-none-any.whl
 ```
 
 ## 教学
-可以参见[Build-LLM-from-sky](https://github.com/tunglinwood/build_LLM_from_skyer)
+可以参见[Build-LLM-from-sky](https://github.com/tunglinwood/build_LLM_from_skyer)"# -LLama" 
